@@ -5,4 +5,4 @@ A JS based browser game.
 Can your robot withstand the horde of enemy combatants and collect the most cash?!
 
 ## Website:
-Sadboitay.github.io/robot-gladiators
+https://Sadboitay.github.io/robot-gladiators
